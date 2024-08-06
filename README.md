@@ -11,6 +11,7 @@ This Video shows the steps used inside Active Directory to perform basic IT task
 
 **[YOUTUBE LINK](https://youtu.be/o8iwMAtSdNE)**
 
+https://www.youtube.com/watch?v=o8iwMAtSdNE&list=PLrbMZfjq8xh0PR_X6Odkw6mfiRb8m3M3c&index=1
 
 <h2>Environments and Technologies Used</h2>
 
